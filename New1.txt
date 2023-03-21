@@ -5,8 +5,7 @@
 <body>
      <Center>
 	    <h1> Welcome to Sarwin Learning </h1>
-		<h2> Sarwin is a boy </h2>
-          <h3> Sarwin is three years old </h3>
+		<h2> Sarwin is son of Ramesh and Briti </h2>
 </Center>
 </body>
 </html>
